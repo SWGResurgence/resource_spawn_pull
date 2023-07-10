@@ -26,11 +26,11 @@ public class SWGAideXML {
 
 
     //////////////Variables////////////////
-    private static final String DB_IP = "66.85.75.4"; //Database Computer IP
+    private static final String DB_IP = "96.43.140.236"; //Database Computer IP
     private static final String DB_PORT = "1521"; // Port for Database Connections
     private static final String DB_NAME = "swg"; // Database Name
     private static final String DB_USER = "swg"; //Username for DB
-    private static final String DB_PASS = "$wG_$erver_22"; //Password for DB
+    private static final String DB_PASS = "S?Fm!65RfB$F9rX"; //Password for DB
     private static final String OUTPUT_PATH = "D:"; //Path where the XML will be created.
     ///////////////////////////////////////
 
